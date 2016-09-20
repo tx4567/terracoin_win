@@ -31,3 +31,10 @@ Verzion 0.9.12
 QT 		5.6.1-2
 
 64 Bit windows binary: terracoin_0.9.12-64.zip 
+
+
+
+09/19/2016
+
+Recompile using Libevent 2.021 because of error noted (https://sourceforge.net/p/levent/bugs/363/)
+
