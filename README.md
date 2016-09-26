@@ -43,4 +43,4 @@ Recompile using Libevent 2.021 because of error noted (https://sourceforge.net/p
 
 Recompile for revision (09/23/2016): d28bfaf,b5b0f09,4f5459f,70988e2,6c49280,98b912a,c018e40,ec5bf2e
 
-32 Bit windows binary:  terracoin_0.9.12.1_gc018e40_32.zip
+32 Bit windows binary:  terracoin_0.9.12.1-32.zip
