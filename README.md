@@ -53,3 +53,15 @@ QT 5.7.0 64 bit build used.
 Recompile for revision (09/23/2016): d28bfaf,b5b0f09,4f5459f,70988e2,6c49280,98b912a,c018e40,ec5bf2e
 
 64 Bit windows binary:  terracoin_0.9.12.1-64.zip
+
+
+10/14/2016
+
+Dependancies version differencies from prior compilations.
+QT 5.3.2 64 bit build used.
+Openssl 1.0.1l
+LibPng 1.6.16
+Qrencode 3.4.4
+LibEvent 2.0.21
+
+64 Bit windows binary:  terracoin_0.9.12.1-64.zip
