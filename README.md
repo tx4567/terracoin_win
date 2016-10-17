@@ -38,6 +38,7 @@ QT 		5.6.1-2
 
 Recompile using Libevent 2.021 because of error noted (https://sourceforge.net/p/levent/bugs/363/)
 
+--------------------------------------------------------------------------------------------------
 
 09/26/2016
 
@@ -45,6 +46,7 @@ Recompile for revision (09/23/2016): d28bfaf,b5b0f09,4f5459f,70988e2,6c49280,98b
 
 32 Bit windows binary:  terracoin_0.9.12.1-32.zip
 
+--------------------------------------------------------------------------------------------------
 
 09/29/2016
 
@@ -54,6 +56,7 @@ Recompile for revision (09/23/2016): d28bfaf,b5b0f09,4f5459f,70988e2,6c49280,98b
 
 64 Bit windows binary:  terracoin_0.9.12.1-64.zip
 
+--------------------------------------------------------------------------------------------------
 
 10/14/2016
 
@@ -65,3 +68,19 @@ Qrencode 3.4.4
 LibEvent 2.0.21
 
 64 Bit windows binary:  terracoin_0.9.12.1-64.zip
+
+--------------------------------------------------------------------------------------------------
+
+10/17/2016
+
+Dependancies version differencies from prior compilations.
+QT 5.3.2 64 bit build used.
+Openssl 1.0.1l
+LibPng 1.6.16
+Qrencode 3.4.4
+LibEvent 2.0.21
+Zlib 1.2.8
+
+32 Bit windows binary:  terracoin_0.9.12.1-32.zip
+
+--------------------------------------------------------------------------------------------------
